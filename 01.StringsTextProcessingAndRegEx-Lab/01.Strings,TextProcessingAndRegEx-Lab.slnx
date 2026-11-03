@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01.ReverseStrings/01.ReverseStrings.csproj" />
+  <Project Path="02.RepeatStrings/02.RepeatStrings.csproj" />
+  <Project Path="03.Substring/03.Substring.csproj" />
+  <Project Path="04.TextFilter/04.TextFilter.csproj" />
+  <Project Path="05.DigitsLettersAndOther/05.DigitsLettersAndOther.csproj" Id="4ce171a7-6bad-4f93-8607-8753082a47d5" />
+</Solution>
